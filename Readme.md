@@ -1,3 +1,7 @@
+# Live Version
+
+https://cemkgrbz.github.io/Animated-Portfolio-Exercise/
+
 # Animated Portfolio
 
 In this exercise we'll be creating a single portfolio webpage with dropdown menu, `clip-path` and animations
